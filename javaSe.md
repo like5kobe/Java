@@ -41,7 +41,8 @@
   toString（）方法，默认是输出对象在内存中的地址，通过重写该方法，输出想要的值  
   equals()方法
      1. 在Object类中 比较的是两个对象是否指向同一块内存地址
-     2. 在进行字符串比较时，由于String类重写了equals()方法，所以比较的是内存中存放的值是否相同
+     2. 在进行字符串比较时，由于String类重写了equals()方法，所以比较的是内存中存放的值是否相同  
+     
      public boolean equals(Object anObject) {  
         if (this == anObject) {    
             return true;                  

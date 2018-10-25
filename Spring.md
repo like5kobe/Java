@@ -23,5 +23,5 @@
 2. Spring 面向切面编程能帮助我们无耦合的实现日志记录，性能统计，安全控制。
 3. Spring 能非常简单的帮我们管理数据库事务。
 4. Spring 还提供了与第三方数据访问框架（如Hibernate、JPA）无缝集成，而且自己也提供了一套JDBC访问模板来方便数据库访问。
-5. Spring 还提供与第三方Web（如Struts1/2、JSF）框架无缝集成，而且自己也提供了一套Spring MVC框架，来方便web层搭建。
+5. Spring 还提供与第三方Web（如Struts2、JSF）框架无缝集成，而且自己也提供了一套Spring MVC框架，来方便web层搭建。
 6. Spring 能方便的与Java EE（如Java Mail、任务调度）整合，与更多技术整合（比如缓存框架）。
